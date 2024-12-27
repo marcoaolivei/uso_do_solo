@@ -1,0 +1,13 @@
+[server]
+headless = true
+port = 8501
+enableCORS = false
+
+[theme]
+primaryColor = "#3E768A"
+backgroundColor = "#ECECEC"
+secondaryBackgroundColor = "#E4E4E4" #d7ab82
+textColor = "#040404"
+font = "sans serif"
+maxUploadSize = 1024
+maxMessageSize = 1024
